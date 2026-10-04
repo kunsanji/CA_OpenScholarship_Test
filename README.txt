@@ -48,7 +48,7 @@ Repository URL: https://github.com/kunsanji/CA_OpenScholarship_Test.git
 Visibility:     Public
 
 --- Zenodo DOI ---
-DOI: [your DOI]
+DOI: https://doi.org/10.5281/zenodo.23144972
 
 --- R environment ---
 R version: 4 . 5.3 
