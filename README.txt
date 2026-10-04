@@ -44,7 +44,7 @@ pct_free_lunch and pct_reduced_lunch use frl_total as denominator,
   so they sum to 100 by construction. Not comparable to enrollment.
 
 --- GitHub repository ---
-Repository URL: [your GitHub URL]
+Repository URL: https://github.com/kunsanji/CA_OpenScholarship_Test.git
 Visibility:     Public
 
 --- Zenodo DOI ---
